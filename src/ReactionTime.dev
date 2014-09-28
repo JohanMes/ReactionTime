@@ -27,8 +27,8 @@ CommandLine=
 Folders=Clock,Timer
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
-CompilerSettings=000000b000110000000001000
+CompilerSet=3
+CompilerSettings=0000000100110000000001000
 UnitCount=7
 
 [VersionInfo]
